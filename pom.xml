@@ -11,6 +11,7 @@
     <modules>
         <module>algorithm-training01-array-linkedlist-stack-queue</module>
         <module>algorithm-training02</module>
+        <module>algorithm-training03-map</module>
     </modules>
 
     <dependencies>
