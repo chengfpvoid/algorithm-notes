@@ -12,6 +12,7 @@
         <module>algorithm-training01-array-linkedlist-stack-queue</module>
         <module>algorithm-training02</module>
         <module>algorithm-training03-map</module>
+        <module>algorithm-training04-recursion-divde-and-conquer</module>
     </modules>
 
     <dependencies>
