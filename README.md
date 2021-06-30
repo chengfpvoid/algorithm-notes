@@ -13,3 +13,15 @@
 ### medium题
 
 [和为k的子数组](https://github.com/chengfpvoid/algorithm-notes/tree/main/algorithm-training02/src/main/java/org/cheng/algo/lc560)
+
+## 3 哈希表 集合 映射
+
+### easy题
+
+[子域名访问计数](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training03-map/src/main/java/org/cheng/algo/lc811/SubDomainVisitisSolution.java)
+
+## 4 递归 分治
+
+### hard题
+
+[合并K个升序链表](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training04-recursion-divde-and-conquer/src/main/java/org/cheng/algo/lc23/MergeSortedListsSolution.java)
