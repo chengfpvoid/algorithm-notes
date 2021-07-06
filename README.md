@@ -25,3 +25,15 @@
 ### hard题
 
 [合并K个升序链表](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training04-recursion-divde-and-conquer/src/main/java/org/cheng/algo/lc23/MergeSortedListsSolution.java)
+
+## 5 树和图
+
+### medium题
+
+[从中序与后序遍历序列构造二叉树](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training05-tree-graph/src/main/java/org/cheng/algo/lc106/BuildTreeSolutions.java)
+
+## 6 DFS与BFS
+
+### medium题
+
+[课程表II](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training06-bfs-dfs/src/main/java/org/cheng/lc210/CoursesOrderSloutions.java)
