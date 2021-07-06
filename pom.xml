@@ -13,6 +13,7 @@
         <module>algorithm-training02</module>
         <module>algorithm-training03-map</module>
         <module>algorithm-training04-recursion-divde-and-conquer</module>
+        <module>algorithm-training05-tree-graph</module>
     </modules>
 
     <dependencies>
