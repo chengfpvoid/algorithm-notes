@@ -38,4 +38,4 @@
 
 [课程表II](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training06-bfs-dfs/src/main/java/org/cheng/lc210/CoursesOrderSloutions.java)
 
-[被围绕的区域]()
+[被围绕的区域](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training06-bfs-dfs/src/main/java/org/cheng/lc130/OBoardSolutions.java)
