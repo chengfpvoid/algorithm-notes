@@ -16,6 +16,7 @@
         <module>algorithm-training05-tree-graph</module>
         <module>algorithm-training06-bfs-dfs</module>
         <module>algorithm-training07-heap-bst</module>
+        <module>algorithm-training08-binary-search</module>
     </modules>
 
     <dependencies>
