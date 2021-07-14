@@ -39,3 +39,16 @@
 [课程表II](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training06-bfs-dfs/src/main/java/org/cheng/lc210/CoursesOrderSloutions.java)
 
 [被围绕的区域](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training06-bfs-dfs/src/main/java/org/cheng/lc130/OBoardSolutions.java)
+
+## 7 二叉堆与二叉搜索树
+
+### medium题
+
+[设计推特](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training07-heap-bst/src/main/java/org/cheng/lc355/Twitter.java)
+
+## 8 二分查找
+
+### hard题
+
+[寻找旋转排序数组中的最小值 II ](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training08-binary-search/src/main/java/org/cheng/lc154/FindMinIISolutions.java)
+
