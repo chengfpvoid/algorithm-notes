@@ -58,3 +58,19 @@
 
 [寻找旋转排序数组中的最小值 II ](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training08-binary-search/src/main/java/org/cheng/lc154/FindMinIISolutions.java)
 
+
+
+## 9 贪心
+
+
+
+## 10 动态规划
+
+### easy题
+
+[爬楼梯](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training10-dp/src/main/java/org/cheng/algo/lc70/ClimbStairsSloutions.java)
+
+### medium题
+
+[完全平方数](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training10-dp/src/main/java/org/cheng/algo/lc279/NumSquares.java)
+
