@@ -48,6 +48,12 @@
 
 ## 8 二分查找
 
+### medium题
+
+[在 D 天内送达包裹的能力](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training08-binary-search/src/main/java/org/cheng/lc1011/ShipWithinDaysSolutions.java)
+
+[爱吃香蕉的珂珂](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training08-binary-search/src/main/java/org/cheng/org/cheng/lc875/MinEatingSpeedSloutions.java)
+
 ### hard题
 
 [寻找旋转排序数组中的最小值 II ](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training08-binary-search/src/main/java/org/cheng/lc154/FindMinIISolutions.java)
