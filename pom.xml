@@ -17,6 +17,7 @@
         <module>algorithm-training06-bfs-dfs</module>
         <module>algorithm-training07-heap-bst</module>
         <module>algorithm-training08-binary-search</module>
+        <module>algorithm-training10-dp</module>
     </modules>
 
     <dependencies>
