@@ -36,6 +36,12 @@ public class ClimbStairsSloutions {
 
     }
 
+    /**
+     * 深度优先搜索 + 记忆化
+     * @param i
+     * @param memo
+     * @return
+     */
     private int dfs(int i, int[] memo) {
         if (i == 0) {
             return 0;
