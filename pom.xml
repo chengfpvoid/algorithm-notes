@@ -18,6 +18,7 @@
         <module>algorithm-training07-heap-bst</module>
         <module>algorithm-training08-binary-search</module>
         <module>algorithm-training10-dp</module>
+        <module>algorithm-training14-trie-union</module>
     </modules>
 
     <dependencies>
