@@ -74,3 +74,12 @@
 
 [完全平方数](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training10-dp/src/main/java/org/cheng/algo/lc279/NumSquares.java)
 
+
+
+## 14 字典树和并查集
+
+### medium题
+
+[冗余链接](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training14-trie-union/src/main/java/org/cheng/unionset/lc684/RedundantConnection.java)
+
+[岛屿数量](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training14-trie-union/src/main/java/org/cheng/unionset/lc200/NumIslands.java)
