@@ -6,6 +6,8 @@ package org.cheng.unionset;
 public class DisjointSet {
 
     private int fa[];
+    // 并查集的个数
+    private  int count;
 
     public DisjointSet(int n) {
         // n个元素的并查集 初始化,fa[i] 相同的 位置 在同一个并查集下面
@@ -13,6 +15,7 @@ public class DisjointSet {
         for (int i = 0; i < n; i++) {
             fa[i] = i;
         }
+        count = n;
     }
 
     /**
@@ -38,9 +41,14 @@ public class DisjointSet {
         y = find(y);
         if (x != y) {
             fa[x] = y;
+            // 发生合并 count-1
+            count--;
         }
 
     }
 
 
+    public int getCount() {
+        return this.count;
+    }
 }
