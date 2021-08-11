@@ -19,6 +19,8 @@
         <module>algorithm-training08-binary-search</module>
         <module>algorithm-training10-dp</module>
         <module>algorithm-training14-trie-union</module>
+        <module>algorithm-training15-graph-theory</module>
+        <module>algorithmt-raining16-string</module>
     </modules>
 
     <dependencies>
