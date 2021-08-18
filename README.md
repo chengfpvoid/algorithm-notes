@@ -89,3 +89,5 @@
 ### 二叉平衡树
 
 [滑动窗口最大值](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training18-avl-skiplist/src/main/java/org/cheng/algo/avl/lc239/MaxSlidingWindowSloutions.java)（Hard）
+
+[邻值查找](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training18-avl-skiplist/src/main/java/org/cheng/algo/avl/acwing136/FindAdjacentValue.java)（Medium）
