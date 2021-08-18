@@ -21,6 +21,7 @@
         <module>algorithm-training14-trie-union</module>
         <module>algorithm-training15-graph-theory</module>
         <module>algorithm-training16-string</module>
+        <module>algorithm-training18-avl-skiplist</module>
     </modules>
 
     <dependencies>
