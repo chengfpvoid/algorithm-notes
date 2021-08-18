@@ -83,3 +83,9 @@
 [冗余链接](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training14-trie-union/src/main/java/org/cheng/unionset/lc684/RedundantConnection.java)
 
 [岛屿数量](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training14-trie-union/src/main/java/org/cheng/unionset/lc200/NumIslands.java)
+
+## 18 二叉平衡树和跳跃表
+
+### 二叉平衡树
+
+[滑动窗口最大值](https://github.com/chengfpvoid/algorithm-notes/blob/main/algorithm-training18-avl-skiplist/src/main/java/org/cheng/algo/avl/lc239/MaxSlidingWindowSloutions.java)（Hard）

@@ -1,4 +1,4 @@
-package org.cheng.algo.acwing136;
+package org.cheng.algo.avl.acwing136;
 
 import java.util.HashMap;
 import java.util.Map;
