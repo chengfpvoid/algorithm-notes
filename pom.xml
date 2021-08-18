@@ -20,7 +20,7 @@
         <module>algorithm-training10-dp</module>
         <module>algorithm-training14-trie-union</module>
         <module>algorithm-training15-graph-theory</module>
-        <module>algorithmt-raining16-string</module>
+        <module>algorithm-training16-string</module>
     </modules>
 
     <dependencies>
