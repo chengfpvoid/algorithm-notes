@@ -20,6 +20,7 @@ public class ReverseLinkedListSolution {
         // 每次改一条边 然后后移一位
         ListNode pre = head;
         while (pre != null) {
+            // 后面要改掉 先预存
             ListNode nextPre = pre.next;
             // 改一条边
             pre.next = cur;
