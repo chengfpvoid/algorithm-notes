@@ -93,4 +93,30 @@ public class ThreeNumsSumZeroSolutions {
         return ans;
 
     }
+
+
+    private void printListGroup(List<List<Integer>> lists) {
+        for (List<Integer> list : lists) {
+            StringBuilder sb = new StringBuilder("[");
+
+            for (int i = 0; i < list.size(); i++) {
+
+                if ( i == list.size() - 1) {
+                    sb.append(list.get(i));
+                } else {
+                    sb.append(list.get(i)).append(",");
+                }
+            }
+            sb.append("]");
+            System.out.println(sb.toString());
+
+        }
+    }
+
+
+    public static void main(String[] args) {
+        int[] nums = {-1,2,-1,-1,-1,5,2};
+        ThreeNumsSumZeroSolutions s = new ThreeNumsSumZeroSolutions();
+        s.printListGroup(s.threeSum(nums));
+    }
 }
